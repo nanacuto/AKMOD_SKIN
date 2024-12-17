@@ -1,0 +1,5 @@
+cd $HOME/AKMOD_SKIN
+chmod +x setup
+chmod +x menuskin
+chmod +x pakskin
+./setup
